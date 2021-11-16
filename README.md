@@ -18,3 +18,4 @@ and a few operations.
 
 Casting: Not allowed, but type checking is a bonus feature.
 
+![minilisp](https://user-images.githubusercontent.com/94356490/141923854-3bc8377c-4013-4561-ad17-27f30c405ac5.PNG)
